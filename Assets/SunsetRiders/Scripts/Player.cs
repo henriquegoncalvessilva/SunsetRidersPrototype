@@ -365,14 +365,14 @@ public class Player : MonoBehaviour
 
     #endregion
 
-    private void ActiveAction()
+    public void ActiveAction()
     {
         action = true;
         
 
     }
 
-    private void DesactiveAction()
+    public void DesactiveAction()
     {
         action = false;
 
