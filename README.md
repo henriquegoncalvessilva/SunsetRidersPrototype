@@ -1,7 +1,11 @@
-# Sunset Riders - Prototype
-Developer: Henrique Gonçalves - https://henriquedev.netlify.com/
 
-Instructions: 
+# Sunset Riders - Prototype
+
+Prototype developed for Henrique Gonçalves
+
+I made this prototype to practice my knowledge at Unity. If you find an error or have suggestions for improvements, I'd like you to comment.
+
+# Instructions: 
 
 -For walk press "left or right arrow"
 
@@ -15,6 +19,8 @@ Instructions:
 
 Ps: Prototype contain only mechanic of movement. Don't has combat. 
 
-Developer: Henrique Gonçalves - https://henriquedev.netlify.com/
+# About me
 
-#madewithunity #unity #2d #SunsetRiders
+My Portfólio: https://henriquedev.netlify.com/
+
+My Linkedin: https://www.linkedin.com/in/henrique-gon%C3%A7alves-71a0044b/
