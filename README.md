@@ -17,4 +17,4 @@ Ps: Prototype contain only mechanic of movement. Don't has combat.
 
 Developer: Henrique Gonçalves - https://henriquedev.netlify.com/
 
-#makewithunity #unity #2d #SunsetRiders
+#madewithunity #unity #2d #SunsetRiders
